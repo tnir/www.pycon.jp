@@ -13,7 +13,7 @@ pyparsing==2.4.6
 pytz==2019.3
 requests==2.22.0
 six==1.14.0
-snowballstemmer==2.0.0
+snowballstemmer==2.1.0
 Sphinx==2.4.0
 sphinxcontrib-applehelp==1.0.1
 sphinxcontrib-devhelp==1.0.1
